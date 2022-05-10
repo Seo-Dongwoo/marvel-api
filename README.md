@@ -21,7 +21,7 @@ const result = await axios(
           `http://gateway.marvel.com/v1/public/characters?ts=1&apikey=ea4e165895ae02665813f27279cad123&hash=${hash}`
         );
 ```
-md5를 이용해서 hash 값을 잘 구해서 잘 넣어줬다.
+md5를 이용해서 hash 값을 구해서 넣어줬다.
 
 - 두 번째 어려움
 ```
