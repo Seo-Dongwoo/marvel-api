@@ -64,4 +64,6 @@ const [items, setItems] = useState([]);
   }, [query]);
   ```
 #### useState, useEffect를 이용해서 query 값에 따른 데이터가 보여지게 해줬다.
+---
+### 배포
 
