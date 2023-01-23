@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 
 ---
+## 프로젝트 실행
+```
+npm run start
+```
+---
 ## 🔧 이슈 및 해결
 
 - hash 값에 넣는 값을 md5를 이용해서 암호화해서 넣는 작업에서 어려움을 겪었다.
@@ -64,6 +69,4 @@ const [items, setItems] = useState([]);
   }, [query]);
   ```
 #### useState, useEffect를 이용해서 query 값에 따른 데이터가 보여지게 해줬다.
----
-### 배포
 
